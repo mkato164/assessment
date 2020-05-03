@@ -1,0 +1,19 @@
+/* https://coolors.co/ */
+body{
+    background: linear-gradient(90deg, #337ab7, #00ffff);
+    /* background-color : #c9ddff; */
+    color: #ffffff;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto
+}
+button{
+    padding: 5px 20px;
+    background: linear-gradient(90deg, #333333, #ffffff);
+    /* background-color: #337ab7; */
+    border-style: none;
+    color: #ffffff;
+}
+input{
+    height: 20px;
+}
